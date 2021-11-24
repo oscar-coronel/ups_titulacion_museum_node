@@ -1,0 +1,17 @@
+{
+  "name": "museum_3",
+  "version": "1.0.0",
+  "description": "Web Server - Museum 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "watch": "nodemon index"
+  },
+  "author": "Oscar Coronel y Damarys Pluas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
